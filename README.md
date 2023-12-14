@@ -1,6 +1,6 @@
 # Token Contract
 
-META Token Smart Contrac.
+META Token Smart Contract.
 
 ## Description
 
